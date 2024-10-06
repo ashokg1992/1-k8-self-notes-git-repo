@@ -1,8 +1,10 @@
 ---
-
+# good source for errors
 01- https://x.com/techyoutbe/status/1816924469681881578   34 Potential Issues in a Multi-Cluster Kubernetes Environment (with Error Message )
 
 02- 
+
+
 #########  Real time Case Scenario and Troubleshooting in Kubernetes Production Environment  ############
 
 Not able to deploy application getting error Resource mapping not found - Part -01 - https://youtu.be/Sa-zKp9vytk
